@@ -1,6 +1,11 @@
 The MIT License (MIT)
 
-Copyright (c) Nuno Maduro <enunomaduro@email.com>
+This project is a derivative work built upon and developed from pest-plugin-laravel.
+هذه النسخة مطورة ومبنية على إطار العمل والمستودع الأصلي pest-plugin-laravel.
+
+Copyright (c) 2026 Muath R Abu Ouda <muathrabuouda@hotmail.com> (Vision Leader of Ugarit / قائد رؤية أوغاريت)
+Copyright (c) Nuno Maduro <enunomaduro@email.com> (Original Creator & Primary Developer)
+Portions copyright (c) other contributors to Pest / Ugarit.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
