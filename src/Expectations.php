@@ -2,13 +2,13 @@
 
 declare(strict_types=1);
 
-namespace Pest\Laravel;
+namespace Pest\Ugarit;
 
-use Illuminate\Support\Collection;
+use Heritage\Support\Collection;
 use Pest\Expectation;
 
 /*
- * Asserts that the value is an instance of \Illuminate\Support\Collection
+ * Asserts that the value is an instance of \Heritage\Support\Collection
  */
 expect()->extend('toBeCollection', function (): Expectation {
     // @phpstan-ignore-next-line

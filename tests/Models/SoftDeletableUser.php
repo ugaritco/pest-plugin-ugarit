@@ -2,8 +2,8 @@
 
 namespace Tests\Models;
 
-use Illuminate\Database\Eloquent\Model;
-use Illuminate\Database\Eloquent\SoftDeletes;
+use Heritage\Database\Eloquent\Model;
+use Heritage\Database\Eloquent\SoftDeletes;
 
 class SoftDeletableUser extends Model
 {

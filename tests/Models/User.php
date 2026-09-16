@@ -2,7 +2,7 @@
 
 namespace Tests\Models;
 
-use Illuminate\Database\Eloquent\Model;
+use Heritage\Database\Eloquent\Model;
 
 class User extends Model
 {

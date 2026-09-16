@@ -2,13 +2,13 @@
 
 declare(strict_types=1);
 
-namespace Pest\Laravel;
+namespace Pest\Ugarit;
 
-use Illuminate\Support\ServiceProvider;
+use Heritage\Support\ServiceProvider;
 use Laravel\Dusk\Console\DuskCommand;
-use Pest\Laravel\Commands\PestDatasetCommand;
-use Pest\Laravel\Commands\PestDuskCommand;
-use Pest\Laravel\Commands\PestTestCommand;
+use Pest\Ugarit\Commands\PestDatasetCommand;
+use Pest\Ugarit\Commands\PestDuskCommand;
+use Pest\Ugarit\Commands\PestTestCommand;
 
 final class PestServiceProvider extends ServiceProvider
 {

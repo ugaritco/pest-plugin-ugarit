@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace Pest\Laravel\Commands;
+namespace Pest\Ugarit\Commands;
 
-use Illuminate\Console\Command;
-use Illuminate\Contracts\Console\PromptsForMissingInput;
-use Illuminate\Support\Facades\File;
+use Heritage\Console\Command;
+use Heritage\Contracts\Console\PromptsForMissingInput;
+use Heritage\Support\Facades\File;
 use Pest\Support\Str;
 use Pest\TestSuite;
 use Symfony\Component\Console\Input\InputInterface;

@@ -1,5 +1,5 @@
 <?php
 
-use function Pest\Laravel\assertGuest;
+use function Pest\Ugarit\assertGuest;
 
 assertGuest();

@@ -15,7 +15,7 @@ use Tests\TestCase;
 
 uses(
     TestCase::class,
-    // Illuminate\Foundation\Testing\RefreshDatabase::class,
+    // Heritage\Foundation\Testing\RefreshDatabase::class,
 )->in('Feature');
 
 /*

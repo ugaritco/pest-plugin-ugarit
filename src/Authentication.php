@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Pest\Laravel;
+namespace Pest\Ugarit;
 
-use Illuminate\Contracts\Auth\Authenticatable;
-use Illuminate\Foundation\Testing\TestCase;
+use Heritage\Contracts\Auth\Authenticatable;
+use Heritage\Foundation\Testing\TestCase;
 
 /**
  * Set the currently logged in user for the application.

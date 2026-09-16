@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Pest\Laravel;
+namespace Pest\Ugarit;
 
-use Illuminate\Foundation\Testing\Concerns\InteractsWithDeprecationHandling;
-use Illuminate\Foundation\Testing\Concerns\InteractsWithExceptionHandling;
+use Heritage\Foundation\Testing\Concerns\InteractsWithDeprecationHandling;
+use Heritage\Foundation\Testing\Concerns\InteractsWithExceptionHandling;
 use Pest\Contracts\Plugins\HandlesArguments;
 use Pest\Plugins\Concerns\HandleArguments;
 use Pest\TestSuite;

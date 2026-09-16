@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Pest\Laravel;
+namespace Pest\Ugarit;
 
-use Illuminate\Foundation\Testing\TestCase;
-use Illuminate\Testing\TestResponse;
+use Heritage\Foundation\Testing\TestCase;
+use Heritage\Testing\TestResponse;
 
 /**
  * Define additional headers to be sent with the request.

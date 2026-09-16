@@ -1,6 +1,6 @@
 <?php
 
-use Illuminate\Support\Facades\Route;
+use Heritage\Support\Facades\Route;
 
 uses()->group('options');
 

@@ -1,5 +1,5 @@
 <?php
 
-use function Pest\Laravel\withoutMiddleware;
+use function Pest\Ugarit\withoutMiddleware;
 
 withoutMiddleware()->get('/')->assertSee('laravel');

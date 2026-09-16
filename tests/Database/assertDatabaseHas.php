@@ -3,7 +3,7 @@
 use PHPUnit\Framework\ExpectationFailedException;
 use Tests\Models\User;
 
-use function Pest\Laravel\assertDatabaseHas;
+use function Pest\Ugarit\assertDatabaseHas;
 
 test('pass', function () {
     $user = User::create([

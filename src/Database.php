@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace Pest\Laravel;
+namespace Pest\Ugarit;
 
-use Illuminate\Database\Connection;
-use Illuminate\Database\Eloquent\Model;
-use Illuminate\Foundation\Testing\TestCase;
+use Heritage\Database\Connection;
+use Heritage\Database\Eloquent\Model;
+use Heritage\Foundation\Testing\TestCase;
 
 /**
  * Assert that a given where condition exists in the database.

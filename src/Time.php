@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Pest\Laravel;
+namespace Pest\Ugarit;
 
-use Illuminate\Foundation\Testing\Wormhole;
-use Illuminate\Support\Carbon;
+use Heritage\Foundation\Testing\Wormhole;
+use Heritage\Support\Carbon;
 
 /**
  * Freeze time.

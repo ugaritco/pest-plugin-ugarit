@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Pest\Laravel;
+namespace Pest\Ugarit;
 
-use Illuminate\Foundation\Testing\TestCase;
+use Heritage\Foundation\Testing\TestCase;
 
 /**
  * Set the session to the given array.

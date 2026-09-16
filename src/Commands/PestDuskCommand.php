@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Pest\Laravel\Commands;
+namespace Pest\Ugarit\Commands;
 
 use Laravel\Dusk\Console\DuskCommand;
 

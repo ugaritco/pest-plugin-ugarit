@@ -1,5 +1,5 @@
 <?php
 
-use function Pest\Laravel\withoutExceptionHandling;
+use function Pest\Ugarit\withoutExceptionHandling;
 
 withoutExceptionHandling()->assertTrue(true);

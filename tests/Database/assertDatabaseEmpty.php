@@ -3,7 +3,7 @@
 use PHPUnit\Framework\ExpectationFailedException;
 use Tests\Models\User;
 
-use function Pest\Laravel\assertDatabaseEmpty;
+use function Pest\Ugarit\assertDatabaseEmpty;
 
 test('pass', function () {
     assertDatabaseEmpty('users');

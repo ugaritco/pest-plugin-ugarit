@@ -3,7 +3,7 @@
 use PHPUnit\Framework\ExpectationFailedException;
 use Tests\Models\User;
 
-use function Pest\Laravel\assertDatabaseMissing;
+use function Pest\Ugarit\assertDatabaseMissing;
 
 test('pass', function () {
     assertDatabaseMissing('users', ['id' => 1]);

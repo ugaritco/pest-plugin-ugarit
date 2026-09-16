@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Pest\Laravel;
+namespace Pest\Ugarit;
 
-use Illuminate\Foundation\Testing\TestCase;
-use Illuminate\Testing\PendingCommand;
+use Heritage\Foundation\Testing\TestCase;
+use Heritage\Testing\PendingCommand;
 
 /**
  * Call artisan command and return code.

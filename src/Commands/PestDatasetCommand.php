@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace Pest\Laravel\Commands;
+namespace Pest\Ugarit\Commands;
 
-use Illuminate\Console\Command;
-use Illuminate\Support\Facades\File;
-use Illuminate\Support\Str;
+use Heritage\Console\Command;
+use Heritage\Support\Facades\File;
+use Heritage\Support\Str;
 use Pest\TestSuite;
 
 use function Pest\testDirectory;

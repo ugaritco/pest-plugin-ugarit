@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Pest\Laravel;
+namespace Pest\Ugarit;
 
 use Closure;
-use Illuminate\Foundation\Testing\TestCase;
+use Heritage\Foundation\Testing\TestCase;
 use Mockery\MockInterface;
 
 /**

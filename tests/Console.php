@@ -1,5 +1,5 @@
 <?php
 
-use function Pest\Laravel\artisan;
+use function Pest\Ugarit\artisan;
 
 artisan('inspire')->expectsOutput('pest');

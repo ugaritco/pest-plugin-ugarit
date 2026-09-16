@@ -1,5 +1,5 @@
 <?php
 
-use function Pest\Laravel\get;
+use function Pest\Ugarit\get;
 
 get('/')->assertSee('laravel');

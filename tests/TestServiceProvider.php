@@ -2,7 +2,7 @@
 
 namespace Tests;
 
-use Illuminate\Support\ServiceProvider;
+use Heritage\Support\ServiceProvider;
 
 class TestServiceProvider extends ServiceProvider
 {

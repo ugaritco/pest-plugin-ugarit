@@ -1,5 +1,5 @@
 <?php
 
-use function Pest\Laravel\startSession;
+use function Pest\Ugarit\startSession;
 
 startSession(['foo' => 'bar'])->assertGuest();
