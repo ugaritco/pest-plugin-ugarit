@@ -37,6 +37,11 @@
         }
     },
     "extra": {
+        "ugarit": {
+            "providers": [
+                "Pest\\Ugarit\\PestServiceProvider"
+            ]
+        },
         "heritage": {
             "providers": [
                 "Pest\\Ugarit\\PestServiceProvider"
